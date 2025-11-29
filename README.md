@@ -1,8 +1,8 @@
 # Real-time-Blinkit-Analysis
 An interactive Excel dashboard that cleans and analyzes Blinkit-style order data. It calculates key metrics like total sales, order trends, and peak hours, and visualizes them with PivotTables and charts. New data updates the dashboard instantly, making analysis simple and real-time.
 
-📊 Blinkit Data Analysis — Interactive Excel Dashboard
-📘 Overview
+# 📊 Blinkit Data Analysis — Interactive Excel Dashboard
+# 📘 Overview
 
 This project is an Interactive Excel Dashboard built to analyze Blinkit-style order data. It cleans raw data, calculates key business metrics, and visualizes insights using dynamic charts and PivotTables. The dashboard updates instantly when new data is added, making it a simple real-time analytics tool.
 
@@ -63,13 +63,3 @@ This project is an Interactive Excel Dashboard built to analyze Blinkit-style or
 3. Using PivotTables for business analysis
 
 4. Turning raw data into meaningful insights
-
-# 🧩 Ideal For
-
-1. Students & beginners
-
-2. Aspiring data/business analysts
-
-3. Anyone learning data cleaning and visualization
-
-4. Small businesses analyzing order data.
